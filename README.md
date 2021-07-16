@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chelsi0210
 - 👀 I’m interested in Web Development and Ethical Hacking.
-- 🌱 I’m currently pursuing Bachelors of Technology in Computer Science and Engineering(2019-2023)
+- 🌱 I’m currently pursuing Bachelors of Technology in Computer Science and Engineering from Chandigarh Group of Colleges, Landran(2019-2023)
 - 📫 Feel free to contact me at somanichelsi02@gmail.com
 
 <!---
